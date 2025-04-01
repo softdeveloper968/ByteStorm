@@ -1,0 +1,155 @@
+[
+  {
+    "id": 0,
+    "name": "BlackHays",
+    "image": "/images/logos-partner-affiliate/black-hays-2x1.png",
+    "alt": "Black Hays Group",
+    "href": "https://blackhaysgroup.com",
+    "lat" : 36.1628,
+    "log" : -86.7816
+  },
+  {
+    "id": 1,
+    "name": "BCGlobalInvestments",
+    "image": "/images/logos-partner-affiliate/bcg-2x1.png",
+    "alt": "BC Global Investments",
+    "href": "https://bcglobalinvestments.com/",
+    "lat" : 19.432608,
+    "log" : -99.133209
+  },
+  {
+    "id": 2,
+    "name": "AuthenticallyAmerican",
+    "image": "/images/logos-partner-affiliate/AuthenticallyAmerican.webp",
+    "alt": "Authentically American",
+    "href": "https://www.authenticallyamerican.us/",
+    "lat" : 34.052235,
+    "log" : -118.243683
+  },
+  {
+    "id": 3,
+    "name": "TridentHomeLoans",
+    "image": "/images/logos-partner-affiliate/trident.png",
+    "alt": "Trident Home Loans",
+    "href": "https://tridenthomeloans.com/preferred-partners/",
+    "lat" : 36.1628,
+    "log" : -86.7816
+  },
+  {
+    "id": 4,
+    "name": "Mach1Patches",
+    "image": "/images/logos-partner-affiliate/mach-logo.png",
+    "alt": "Mach1 Patches",
+    "href": "https://mach1patches.com/",
+    "lat" : 33.8651,
+    "log" : -117.2359
+  },
+  {
+    "id": 5,
+    "name": "Billets",
+    "image": "/images/logos-partner-affiliate/billets.png",
+    "alt": "The Billets",
+    "href": "https://thebillets.org/",
+    "lat" : 36.1628,
+    "log" : -86.7816
+  },
+  {
+    "id": 6,
+    "name": "TracticIO",
+    "image": "/images/logos-partner-affiliate/tractic.png",
+    "alt": "Tractic.io",
+    "href": "https://tractic.io/",
+    "lat" : 36.1628,
+    "log" : -86.7816
+  },
+  {
+    "id": 7,
+    "name": "ncameo",
+    "image": "/images/logos-partner-affiliate/ncameo-2x1.png",
+    "alt": "ncameo",
+    "href": "https://www.ncameo.com/",
+    "lat" : 34.052235,
+    "log" : -118.243683
+  },
+  {
+    "id": 8,
+    "name": "RedKangaroo",
+    "image": "/images/logos-partner-affiliate/redkangoo360-2x1.png",
+    "alt": "RedKangaroo",
+    "href": "https://rk360.health/",
+    "lat" : 33.448376,
+    "log" : -112.074036
+  },
+  {
+    "id": 9,
+    "name": "TDYRentals",
+    "image": "/images/logos-partner-affiliate/tdyrentals-2x1.png",
+    "alt": "TDY Rentals",
+    "href": "https://tdyrentals.com/",
+    "lat" : 37.774929,
+    "log" : -122.419418
+  },
+  {
+    "id": 10,
+    "name": "VanZandtCoffee",
+    "image": "/images/logos-partner-affiliate/vanzandt.png",
+    "alt": "Van Zandt Coffee",
+    "href": "https://www.vanzandtcoffee.com/",
+    "lat" : 30.267153,
+    "log" : -97.743060
+  },
+  {
+    "id": 11,
+    "name": "RedlegServices",
+    "image": "/images/logos-partner-affiliate/redleg-services-2x1.png",
+    "alt": "Redleg Services",
+    "href": "https://goredleg.com/",
+    "lat" : 36.1628,
+    "log" : -86.7816
+  },
+  {
+    "id": 12,
+    "name": "ISRSwim",
+    "image": "/images/logos-partner-affiliate/ISRSwim-2x1.png",
+    "alt": "ISR Swim",
+    "href": "https://isrfloat.com/",
+    "lat" :  36.1628,
+    "log" : -86.7816
+  },
+  {
+    "id": 13,
+    "name": "VoyagerSoftwareLLC",
+    "image": "/images/logos-partner-affiliate/voyager-software-llc-2x1.png",
+    "alt": "Voyager Software LLC",
+    "href": "https://voyager-sw.com/",
+    "lat" : 45.523064,
+    "log" : -122.676483
+  },
+  {
+    "id": 14,
+    "name": "GinnyDelaitre",
+    "image": "/images/logos-partner-affiliate/vds-logo-2x1.png",
+    "alt": "VDS Digital Agency",
+    "href": "https://vdsdigitalagency.com",
+    "lat" : 36.1628,
+    "log" : -86.7816
+  },
+  {
+    "id": 16,
+    "name": "SparkAlert",
+    "image": "/images/logos-partner-affiliate/spark-alert-2x1.png",
+    "alt": "Spark Alert",
+    "href": "https://sparkalert.com/",
+    "lat" : 45.523064,
+    "log" : -122.676483
+  },
+  {
+    "id": 17,
+    "name": "Patent",
+    "image": "/images/logos-partner-affiliate/patent-logo.png",
+    "alt": "Patent",  
+    "href": "https://www.ppblaw.com/stevedubois/",
+    "lat" : 34.052235,
+    "log" : -118.243683
+  }
+]

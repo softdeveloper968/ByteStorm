@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to MustWants – Your Home Search Made Simple!",
+    "url": "https://www.youtube.com/embed/gtQ9CmGFT1A?si=6YAM-o6gww5oP_Hx",
+    "thumbnail": "/images/videoTutorials/video_3.png"
+  },
+  {
+    "id": 2,
+    "title": "MustWants Visual Data Maps & BAH: Find the Best Military Housing",
+    "url": "https://www.youtube.com/embed/3GeM5amAhAE?autoplay=1&loop=1&mute=1&rel=0&showinfo=0",
+    "thumbnail": "/images/videoTutorials/video_1.png"
+  },
+  {
+    "id": 3,
+    "title": "MustWants Nickname, Notes & Areas to Work On Feature: Personalize Your Home Search",
+    "url": "https://www.youtube.com/embed/5rs4Vyld-H0?autoplay=1&loop=1&mute=1&rel=0&showinfo=0",
+    "thumbnail": "/images/videoTutorials/video_2.png"
+  },
+  {
+    "id": 4,
+    "title": "MustWants Visual Mapping Feature Overview: See Your Next Home Clearly",
+    "url": "https://www.youtube.com/embed/QvyZjThJhkg?autoplay=1&loop=1&mute=1&rel=0&showinfo=0",
+    "thumbnail": "/images/videoTutorials/video_3.png"
+  },
+  {
+    "id": 5,
+    "title": "Finding Resources & Data Analysis with MustWants: Plan Your Move",
+    "url": "https://www.youtube.com/embed/8hY5gqrPNsM?autoplay=1&loop=1&mute=1&rel=0&showinfo=0",
+    "thumbnail": "/images/videoTutorials/video_4.png"
+  },
+  {
+    "id": 6,
+    "title": "Exploring MustWants My Priorities Feature: Define What Matters Most",
+    "url": "https://www.youtube.com/embed/p-OvtrOLp9Y?autoplay=1&loop=1&mute=1&rel=0&showinfo=0",
+    "thumbnail": "/images/videoTutorials/video_1.png"
+  },
+  {
+    "id": 7,
+    "title": "Explore, Match, Rank Features: MustWants Home Search Made Easy",
+    "url": "https://www.youtube.com/embed/PfKVNGou18A?autoplay=1&loop=1&mute=1&rel=0&showinfo=0",
+    "thumbnail": "/images/videoTutorials/video_5.png"
+  },
+  {
+    "id": 8,
+    "title": "Find the Perfect Real Estate Professional Safely with MustWants",
+    "url": "https://www.youtube.com/embed/SXoGiifuYAQ?autoplay=1&loop=1&mute=1&rel=0&showinfo=0",
+    "thumbnail": "/images/videoTutorials/video_6.png"
+  }
+]

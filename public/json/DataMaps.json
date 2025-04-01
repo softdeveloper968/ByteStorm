@@ -1,0 +1,98 @@
+[
+	{
+		"id": 1,
+		"url": "/find-resources/visual-data-analysis/data-housing",
+		"title": "Understanding Housing Costs",
+		"image": "/images/data-maps/housing-map.jpg",
+		"description": "Review number of homes for and median sale price in a zip code.",
+		"bio": "This map displays key data related to housing costs, including median home values, area wealth percentiles, and housing allowances for military personnel (with and without dependents). It also highlights the location of military installations by service branch in each state."
+	},
+	{
+		"id": 2,
+		"url": "/find-resources/visual-data-analysis/data-schools",
+		"title": "Location of Schools",
+		"image": "/images/data-maps/schools-map.jpg",
+		"description": "Visually understand the location of schools in the zip codes you are searching.",
+		"bio": "This map provides information on schools located around selected military installations across the US. By choosing a specific installation, users can view schools within each zip code surrounding that installation."
+	},
+	{
+		"id": 3,
+		"url": "/find-resources/visual-data-analysis/data-walkability",
+		"title": "Walkability test map",
+		"image": "/images/data-maps/walkability-map.jpg",
+		"description": "View walkability test scores.",
+		"bio": "This map assesses the walkability of different areas, showing how easy it is to walk to various amenities and services in different neighborhoods."
+	},
+	{
+		"id": 4,
+		"url": "/find-resources/visual-data-analysis/data-crime",
+		"title": "Crime Statistics map",
+		"image": "/images/data-maps/crime-map.png",
+		"description": "View crime Statistics",
+		"bio": "This map displays crime rates and statistics across various areas, helping users understand safety levels in different locations."
+	},
+	{
+		"id": 5,
+		"url": "/find-resources/visual-data-analysis/data-national-risk-index-2023",
+		"title": "FEMA Risk Index 2023",
+		"image": "/images/data-maps/nri-map.png",
+		"description": "View FEMA Risk Index data for counties and census tracts.",
+		"bio": "This uses the FEMA risk analysis scores, showing the calculated risk values for numerous categories. County and Census Tract level scores are available."
+	},
+	{
+		"id": 6,
+		"url": "/find-resources/visual-data-analysis/veteran-owned-businesses",
+		"title": "Veteran Owned Businesses",
+		"image": "/images/data-maps/veteran-owned-businesses-map.png",
+		"description": "View locations of Veteran Owned Businesses.",
+		"bio": "Map showing locations of Veteran Owned Businesses."
+	},
+	{
+		"id": 7,
+		"url": "/find-resources/visual-data-analysis/social-media",
+		"title": "Real Estate Social Media Sites",
+		"image": "/images/data-maps/social-media-map.png",
+		"description": "View map of real estate related social media sites.",
+		"bio": "Map of real estate related social media sites."
+	},
+	{
+		"id": 8,
+		"url": "/comingsoon",
+		"title": "Agent Coverage by Zip Code map",
+		"image": "/images/find-resources/agent-coverage.jpg",
+		"description": "Agent Coverage by Zip Code test",
+		"bio": "This map illustrates the coverage of real estate agents by zip code, helping users find agents who service specific areas."
+	},
+	{
+		"id": 9,
+		"url": "/comingsoon",
+		"title": "Mortgage Lenders by State",
+		"image": "/images/find-resources/lander-coverage.jpg",
+		"description": "Mortgage Lenders by State test",
+		"bio": "This map shows the distribution of mortgage lenders across different states, providing a clear view of where lenders are located and available."
+	},
+	{
+		"id": 10,
+		"url": "/comingsoon",
+		"title": "Veteran-Owned Businesses map",
+		"image": "/images/find-resources/MW-coverage.jpg",
+		"description": "Veteran-Owned Businesses test",
+		"bio": "This map highlights the locations of veteran-owned businesses, with coverage options available by zip code, county, or state."
+	},
+	{
+		"id": 11,
+		"url": "/comingsoon",
+		"title": "Real Estate Professionals map",
+		"image": "/images/find-resources/lander-coverage.jpg",
+		"description": "Real Estate Professionals test",
+		"bio": "This map provides a directory of real estate professionals, including home insurance agents, title insurance agents, home inspectors, real estate attorneys, and property managers."
+	},
+	{
+		"id": 12,
+		"url": "/find-resources/visual-data-analysis/mw-coverage",
+		"title": "MW Coverage",
+		"image": "/images/find-resources/MW-coverage.jpg",
+		"description": "Find Homes Near Military Installations",
+		"bio": "Discover MustWants’ extensive coverage across the U.S., connecting you with vetted real estate agents and trusted partners near over 180 military installations. Simplify your PCS move with MustWants."
+	}
+]
